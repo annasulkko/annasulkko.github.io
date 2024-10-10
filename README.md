@@ -6,7 +6,8 @@ I have completed graduate level courses such as R for Data Science, Practical Cl
 # Work Experience 
 
 ## Image Analyst II
-### Inotiv-Boulder, CO - July 2022 to August 2023
+### Inotiv-Boulder, CO 
+July 2022 to August 2023
 - Led image analysis projects for pharmaceutical preclinical studies.
 -  Directed and led study kickoff meetings with pathologists, IHC scientists, and histologists to identify the best approach for quantification and troubleshoot potential analysis issues.
 -  Selected models for cell, tissue, and endpoint quantification for histopathology using digital pathology software (Visiopharm). Honed machine learning models in collaboration with veterinary pathologists.
@@ -20,7 +21,8 @@ Payscale-Denver, CO March 2020 to April 2020
 -  Salesforce and MS Excel
 
 ## Analyst
-### General Services Administration (contractor with Miracorp) - June 2018 to August 2019
+### General Services Administration (contractor with Miracorp) 
+June 2018 to August 2019
 - Analyzed financial legal clauses and database for buildings occupied by government agencies.
 - Collaborated with a team of analysts in a new pilot program under the data management team to strategically find and correct lease financial issues.
 - Established new standard operating procedures (SOPs) and processes.
@@ -29,7 +31,8 @@ Payscale-Denver, CO March 2020 to April 2020
 - Google Sheets, Google Drive, Gmail, MS Excel, and Federal Government Financial Databases.
  
 ## Operations Associate
-### ClinOne - August 2017 to April 2018
+### ClinOne 
+August 2017 to April 2018
 - Associate for an operations team of three (COO and Project Managers) in a PaaS health technology startup.
 - Coordinated client requests, inquiries, and tasks (from both pharmaceutical sponsors and study personnel users).
 - Resolved user support tickets and reported uncharted technical issues with Zendesk.
@@ -39,10 +42,12 @@ Payscale-Denver, CO March 2020 to April 2020
 - Created user manuals, investigator meeting brochures, leaflets, PowerPoint presentations for research site SIVs and many other ClinOne documents that faced research teams as well as the pharmaceutical sponsors.
 - Bridged communication gaps between departments. Experience in Agile development processes. • Zendesk, MS Excel, FTP (secure data transfer), Google Drive, Gmail, Slack, and Jira.
 ## Marketing Design Associate
-### Level 3 Communications - July 2016 to August 2017
+### Level 3 Communications 
+July 2016 to August 2017
 - Constructed custom campaign projects known as Proactive Engineering Designs (PEDs) using internal marketing tools, external software (MS Excel, Google Earth, NetformX, MS Word) and pre-existing templates. Experience with Outlook and Skype for Business. Working as a contractor for the firm FastSwitch.
 ## Electronics Assembler
-### Modular Robotics - June 2015 to August 2015
+### Modular Robotics 
+June 2015 to August 2015
 - Built toy robots at a robotics manufacturing startup. Soldering and electrical manufacturing QA.
 
 
