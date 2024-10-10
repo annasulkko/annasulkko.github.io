@@ -53,7 +53,7 @@ Boulder, CO - June 2015 to August 2015
 
 # Education
 
-## Master's degree in Master of Public Health in Applied Biostatistics
+## Master's degree in Master of Public Health (On Pause) in Applied Biostatistics
 ### University of Colorado Anschutz 3.9 GPA - Aurora, CO
 Incomplete 
 2020 to 2024
