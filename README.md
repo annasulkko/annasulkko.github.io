@@ -41,10 +41,12 @@ Denver, CO - August 2017 to April 2018
 - Analyzed and created Excel data reports and pivot tables to generate targeted email lists to doctors, study coordinators, CRAs and other site personnel to increase site enrollment. Customized mass personal emails utilizing email marketing software.
 - Created user manuals, investigator meeting brochures, leaflets, PowerPoint presentations for research site SIVs and many other ClinOne documents that faced research teams as well as the pharmaceutical sponsors.
 - Bridged communication gaps between departments. Experience in Agile development processes. • Zendesk, MS Excel, FTP (secure data transfer), Google Drive, Gmail, Slack, and Jira.
+
 ## Marketing Design Associate
 ### Level 3 Communications 
 Broomfield, CO - July 2016 to August 2017
 - Constructed custom campaign projects known as Proactive Engineering Designs (PEDs) using internal marketing tools, external software (MS Excel, Google Earth, NetformX, MS Word) and pre-existing templates. Experience with Outlook and Skype for Business. Working as a contractor for the firm FastSwitch.
+
 ## Electronics Assembler
 ### Modular Robotics 
 Boulder, CO - June 2015 to August 2015
