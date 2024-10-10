@@ -6,7 +6,7 @@ I have completed graduate level courses such as R for Data Science, Practical Cl
 # Work Experience 
 
 ## Image Analyst II
-### Inotiv
+## Inotiv
 Boulder, CO - July 2022 to August 2023
 - Led image analysis projects for pharmaceutical preclinical studies.
 -  Directed and led study kickoff meetings with pathologists, IHC scientists, and histologists to identify the best approach for quantification and troubleshoot potential analysis issues.
@@ -21,7 +21,7 @@ Payscale-Denver, CO March 2020 to April 2020
 -  Salesforce and MS Excel
 
 ## Analyst
-### General Services Administration (contractor with Miracorp) 
+## General Services Administration (contractor with Miracorp) 
 Denver, CO - June 2018 to August 2019
 - Analyzed financial legal clauses and database for buildings occupied by government agencies.
 - Collaborated with a team of analysts in a new pilot program under the data management team to strategically find and correct lease financial issues.
@@ -31,7 +31,7 @@ Denver, CO - June 2018 to August 2019
 - Google Sheets, Google Drive, Gmail, MS Excel, and Federal Government Financial Databases.
  
 ## Operations Associate
-### ClinOne 
+## ClinOne 
 Denver, CO - August 2017 to April 2018
 - Associate for an operations team of three (COO and Project Managers) in a PaaS health technology startup.
 - Coordinated client requests, inquiries, and tasks (from both pharmaceutical sponsors and study personnel users).
@@ -42,11 +42,11 @@ Denver, CO - August 2017 to April 2018
 - Created user manuals, investigator meeting brochures, leaflets, PowerPoint presentations for research site SIVs and many other ClinOne documents that faced research teams as well as the pharmaceutical sponsors.
 - Bridged communication gaps between departments. Experience in Agile development processes. • Zendesk, MS Excel, FTP (secure data transfer), Google Drive, Gmail, Slack, and Jira.
 ## Marketing Design Associate
-### Level 3 Communications 
+## Level 3 Communications 
 Broomfield, CO - July 2016 to August 2017
 - Constructed custom campaign projects known as Proactive Engineering Designs (PEDs) using internal marketing tools, external software (MS Excel, Google Earth, NetformX, MS Word) and pre-existing templates. Experience with Outlook and Skype for Business. Working as a contractor for the firm FastSwitch.
 ## Electronics Assembler
-### Modular Robotics 
+## Modular Robotics 
 Boulder, CO - June 2015 to August 2015
 - Built toy robots at a robotics manufacturing startup. Soldering and electrical manufacturing QA.
 
@@ -54,9 +54,9 @@ Boulder, CO - June 2015 to August 2015
 # Education
 
 ## Master's degree in Master of Public Health (On Pause) in Applied Biostatistics
-### University of Colorado Anschutz 3.9 GPA - Aurora, CO
+## University of Colorado Anschutz 3.9 GPA - Aurora, CO
 Incomplete 
 2020 to 2024
 ## Bachelor's Degree in Integrative Physiology
-### University of Colorado at Boulder - Boulder, CO
+## University of Colorado at Boulder - Boulder, CO
 2012 to 2016
